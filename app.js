@@ -3,7 +3,7 @@ import { getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyA4KJKI90RATHhvejl2pgZVATO6YbrZ9oA",
+    apiKey: "your api key",
     authDomain: "randomauth-f3e17.firebaseapp.com",
     databaseURL: "https://randomauth-f3e17-default-rtdb.firebaseio.com",
     projectId: "randomauth-f3e17",
